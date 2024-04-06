@@ -8,5 +8,5 @@ These are resources shared at the OWASP Boston Application Security Conference (
    b. STRIDE elements and their meanings
 2. TM-RBRU-DFD.pdf
    a. Initial on-prem DFD diagram of Rare Books R Us ()
-3. Robert-Hurlbut-BASC2024-Threat-Modeling-Labs-04062024.pdf
+3. BASC-2024-Hands-On-Threat-Modeling-Workshop-Labs-RobertHurlbut-04062024.pdf
    a. Labs used in the workshop
