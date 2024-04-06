@@ -6,7 +6,15 @@ These are resources shared at the OWASP Boston Application Security Conference (
 1. DFD and STRIDE Cheat Sheet.pdf
    a. Data Flow Diagram (DFD) elements and their meanings
    b. STRIDE elements and their meanings
+
 2. TM-RBRU-DFD.pdf
-   a. Initial on-prem DFD diagram of Rare Books R Us ()
-3. BASC-2024-Hands-On-Threat-Modeling-Workshop-Labs-RobertHurlbut-04062024.pdf
+   a. Initial on-prem DFD diagram of Rare Books R Us (drawn with OWASP Threat Dragon)
+
+3. RareBooksTM.tm7
+   a. Initial threat model of Rare Books R Us - On-Prem only (MS Threat Modeling Tool file)
+
+4. RareBooksTM-AWS.tm7
+   a. Updated threat model of Rare Books R Us to include AWS (MS Threat Modeling Tool file)
+
+5. BASC-2024-Hands-On-Threat-Modeling-Workshop-Labs-RobertHurlbut-04062024.pdf
    a. Labs used in the workshop
